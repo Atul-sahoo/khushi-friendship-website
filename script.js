@@ -110,7 +110,7 @@ nextButton.addEventListener("click", () => {
     result.innerHTML =
   'Thank you for being a part of these beautiful memories, Khushi Jii! 💗' +
   '<br>May you always stay happy, achieve your dreams and keep smiling. 🌷' +
-  '<br><img class="quiz-finish-gif" src="images/friends.gif" alt="Friends celebrating">';
+  '<br><img class="quiz-finish-gif" src="Friends.gif" alt="Friends celebrating">';
   }
 })
 
